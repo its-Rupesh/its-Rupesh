@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👾 I'm Rupesh, a passionate Computer Engineering student currently in my final year .
 - 👨‍💻 I specialize in Node.js and am currently learning TypeScript.
-- 🔭 I’m currently working on Connectify a Real Time Chat Application 
+- 🔭 I’m currently working on Connectify a E-commerce Website 
 - 🚀 Currently honing my skills in full-stack development.
 - 👨‍💻 Solved 400+ Problems on leetcode, Tuf & Coding Ninjas Platform
 - 🤖 Leetcode 1500
